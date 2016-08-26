@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_data/demo_data.iml" filepath="$PROJECT_DIR$/demo_data/demo_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewtext/listviewtext.iml" filepath="$PROJECT_DIR$/listviewtext/listviewtext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicplayer/musicplayer.iml" filepath="$PROJECT_DIR$/musicplayer/musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuziqi/wuziqi.iml" filepath="$PROJECT_DIR$/wuziqi/wuziqi.iml" />
+    </modules>
+  </component>
+</project>
